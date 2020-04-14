@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PulseCalculator</string>
+    <string name="main_hint">Click above for every beat</string>
 </resources>
